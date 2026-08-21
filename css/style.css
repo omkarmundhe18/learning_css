@@ -13,3 +13,42 @@ h2{
     background-color: aqua;
     font-size: 60px;
 }
+.heading6{
+    color: brown;
+    background-color: blanchedalmond;
+}
+#heading2{
+    color: black;
+    background-color: aquamarine;
+}
+.heading3{
+    color: aliceblue;
+    background-color: black;
+    font-size: 80px;
+}
+.t_transform_uppercase{
+    text-transform: uppercase;
+}
+.t_transform_capitilze{
+    text-transform: capitalize;
+}
+.t_decor_all{
+    text-decoration: underline overline line-through;
+}
+.t_align_l{
+    text-align: left;
+}
+.t_align_c{
+    text-align: center;
+}
+.t_align_r{
+    text-align: right;
+}
+.t_shadow{
+    color: blueviolet;
+    text-shadow: 8px 9px 6px rgb(193, 171, 43);
+}
+.t_shadow2{
+    color: black;
+    text-shadow: 8px 9px 6px aqua;
+}
